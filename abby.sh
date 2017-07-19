@@ -1,0 +1,1 @@
+abigen --sol contracts/numbers.sol --pkg main --out contracts.go 
